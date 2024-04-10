@@ -1,2 +1,2 @@
-# asp.net_core_cs_basic_study
+# DotnetCoreStudy
 Repository for studying basic ASP.NET Core with C#
